@@ -1,0 +1,24 @@
+img{
+    padding: 5px;
+    width: 40px;
+    height: 40px;
+}
+h6{
+    color:honeydew;
+    margin-left: 30px;
+}
+h6:hover{
+    color:#61DAFB;
+}
+h5{
+    color: #61DAFB;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+.logo{
+    margin-left: 30px;
+    margin-trim: 30px;
+}
+.searchbar{
+    margin-right: 300px;
+}

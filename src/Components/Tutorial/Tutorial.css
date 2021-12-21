@@ -1,0 +1,17 @@
+#tip{
+    margin: 40px 430px 80px 50px;
+    padding: 20px;
+    background-color: #FFE5644D;
+}
+#head{
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0px 0px 0px 10px ;
+}
+#below-head{
+font-size: 16px;
+padding:0px 10px 10px 10px;
+}
+#head,#below-head{
+    
+}
